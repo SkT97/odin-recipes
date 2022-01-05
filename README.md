@@ -1,5 +1,4 @@
 # odin-recipes
-odin-recipes
 Recipe Page Content:
 
 - BUREK
