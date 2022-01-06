@@ -1,0 +1,37 @@
+body {
+    background-color: lightblue;
+}
+
+#back-to-homepage {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-family: cursive, sans-serif, serif;
+    font-size: 48px;
+}
+
+#burekImg {
+    width: 500px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    color: darkblue
+}
+
+li {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+}
